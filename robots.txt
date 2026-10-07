@@ -1,6 +1,6 @@
 # ============================================================
 #  АудиоМастерская — robots.txt
-#  https://antonvasiliev9-rttv.github.io/
+#  https://audiomasterskaya.github.io/
 #  Автор: Антон Васильев
 # ============================================================
 
@@ -39,7 +39,7 @@ Disallow: /.gitignore
 Disallow: /.nojekyll
 
 # --- Карта сайта ---
-Sitemap: https://antonvasiliev9-rttv.github.io/sitemap.xml
+Sitemap: https://audiomasterskaya.github.io/sitemap.xml
 
 # --- Предпочтительное зеркало (Яндекс, Mail.ru) ---
-Host: antonvasiliev9-rttv.github.io
+Host: audiomasterskaya.github.io
